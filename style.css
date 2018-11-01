@@ -1,0 +1,79 @@
+::placeholder{
+    color:#c1bacc;
+    opacity:1;
+}
+:-ms-intput-placeholder{
+    color:#c1bacc;
+    font-size:15px;
+}
+::-ms-input-placeholder{
+    color:#c1bacc;
+    font-size:15px;
+}
+body{
+    margin:0px;
+    padding:0px;
+    background-color:linear-gradient(white,#d3d8e8 );
+}
+.page_header{
+    background-color:#3b5998;
+    height:75px;
+}
+header{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    word-spacing: -1px;
+}
+.details1{
+border-width:0.5px;
+position:absolute;
+left:58%;
+top:4.8%;
+border-radius:0.5px;
+}
+.details2{
+    border-width:0.1px;
+    position:absolute;
+    left:70%;
+    top:4.8%;
+    border-radius:0.5px;
+}
+.login{
+    position:absolute;
+    left:81%;
+    top:5.0%;
+    border-radius:0.5px;
+    color:white;
+    background:#3b5889;
+    border: 1px solid ;
+    border-color:#4260a1;
+}
+.login:hover{
+    background:#4260a1;
+}
+.block1{
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:700;
+    padding-left:16.5%;
+    padding-top:2%;
+    color:rgb(24,56,95);
+}
+.block2{
+    font-family:Arial, Helvetica, sans-serif;
+    position:absolute;
+    width:45%;
+    top:14%;
+    left:56%;
+}
+.registration{
+    border:1px;
+    border-color:#D3D8E8;
+    border-radius:1px;
+}
+#birthday_help{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:11px;
+    display:inline-block;
+    width:160px;
+    text-decoration:none;
+}
